@@ -1,0 +1,23 @@
+#wholepage{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: black;
+    font-family: monospace;
+    color: limegreen;
+    text-align: center;
+    margin-top: 300px;
+    
+}
+
+a{
+    text-decoration: underline;
+    color: red;
+}
+
+h2{
+    font-weight: bolder;
+}

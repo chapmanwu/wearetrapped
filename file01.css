@@ -1,0 +1,74 @@
+#wholepage{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    
+}
+h1{
+    font-size: 20;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: -100px;
+    
+}
+
+h2{
+    font-size: 15;
+    margin-top: -12;
+    margin-left: 40;
+    
+}
+h4{
+     font-size: 15;
+    margin-left:67; 
+    margin-top: -13;
+}
+h3{
+    width: 300px;
+    margin-left: 400;
+    margin-top: -10;
+    font-style: italic;
+}
+.main{
+    width: 700;
+    text-align: right;
+    margin-left:400px;
+}
+img{
+    width: 200;
+    margin-left: 600;
+    margin-top: -150px;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+.menu{
+    width: 50;
+    margin-left: 200;
+    
+}
+table{
+    text-align: left
+}
+.key{
+    width: 50;
+    margin-left: 615px;
+    margin-top: 10;
+}
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: orangered;
+    
+}

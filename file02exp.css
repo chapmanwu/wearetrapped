@@ -1,0 +1,115 @@
+#wholepage{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+h1{
+    font-size: 20;
+    text-align: center;
+    margin-left: -100px;
+    
+}
+
+h2{
+    font-size: 15;
+    margin-top: -12;
+    margin-left: 40;
+    
+}
+h3{
+    margin-left: 80;
+    margin-top: -10;
+}
+h4{
+     font-size: 15;
+    margin-left:67; 
+    margin-top: -13;
+}
+h5{
+    margin-left: 80;
+    margin-top: -10;
+    color: red;
+    font-style: oblique;
+    text-decoration: underline;
+    
+}
+.main{
+    width: 700;
+    text-align: right;
+    margin-left:400px;
+}
+.menu{
+    width: 50;
+    margin-left: 200;
+    margin-top: -180;
+    
+}
+table{
+    text-align: left
+}
+
+img {
+    width: 50;
+    margin-top: 20px;
+    margin-left: 425px
+}
+
+img {
+    
+}
+
+---------------------------------------------
+.menu table tr td p{
+    text-decoration: overline;
+    color: red;
+
+}
+p {
+    text-decoration: line-through;
+    color: red;
+}
+
+h6 {
+    width: 500px;
+    text-align: left;
+    font-size: 13;
+    margin-left: 450;
+    margin-top: 10;
+    
+}
+
+h7 {
+    margin-left: 400;
+    color: red;
+}
+
+a:link {
+    padding: 0px;
+    text-decoration: none;
+    color:limegreen;
+
+}
+a:visited {
+    padding: 0px;
+    text-decoration: none;
+    color:limegreen;
+
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+h8{
+    padding: 0;
+    margin-left: 500px;
+}
+.next{
+    margin-left: 700px;
+    margin-top: 20px;
+}

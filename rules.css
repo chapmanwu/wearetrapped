@@ -1,0 +1,55 @@
+#wholepage{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+
+h1{
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+p{
+    margin-left: 30px;
+    width: 400px;
+}
+
+h2{
+    font-size: 15px;
+    margin-left: 30px;
+    color: limegreen;
+}
+.start{
+    margin-left: 380px;
+    margin-top: 20px;
+
+    
+}
+
+.exit{
+    margin-left: 130px;
+    margin-top: -14px;
+
+}
+
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited{
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    color: limegreen;
+    text-decoration: underline;
+}
