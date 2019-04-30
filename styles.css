@@ -21,7 +21,7 @@ body{
 
 a:link{
     text-decoration: none;
-    color: dimgray
+    color: red;
 }
 
 
@@ -47,6 +47,6 @@ a:hover{
     text-decoration: line-through;
 }
 a:visited{
-    color: dimgray;
+    color: red;
     text-decoration: line-through;
 }
